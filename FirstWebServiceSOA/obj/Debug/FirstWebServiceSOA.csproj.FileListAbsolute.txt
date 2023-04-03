@@ -1,0 +1,7 @@
+C:\Users\Jenif\source\repos\FirstWebServiceSOA\FirstWebServiceSOA\bin\Debug\FirstWebServiceSOA.exe.config
+C:\Users\Jenif\source\repos\FirstWebServiceSOA\FirstWebServiceSOA\bin\Debug\FirstWebServiceSOA.exe
+C:\Users\Jenif\source\repos\FirstWebServiceSOA\FirstWebServiceSOA\bin\Debug\FirstWebServiceSOA.pdb
+C:\Users\Jenif\source\repos\FirstWebServiceSOA\FirstWebServiceSOA\obj\Debug\FirstWebServiceSOA.csproj.AssemblyReference.cache
+C:\Users\Jenif\source\repos\FirstWebServiceSOA\FirstWebServiceSOA\obj\Debug\FirstWebServiceSOA.csproj.CoreCompileInputs.cache
+C:\Users\Jenif\source\repos\FirstWebServiceSOA\FirstWebServiceSOA\obj\Debug\FirstWebServiceSOA.exe
+C:\Users\Jenif\source\repos\FirstWebServiceSOA\FirstWebServiceSOA\obj\Debug\FirstWebServiceSOA.pdb
